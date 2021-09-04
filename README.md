@@ -7,12 +7,12 @@
 
 [![GitHub forks](https://img.shields.io/github/forks/TeamEiva/EivaBot?&style=flat-square&logo=github)](https://github.com/TeamEiva/EivaBot/fork)
 [![GitHub stars](https://img.shields.io/github/stars/TeamEiva/EivaBot?&style=flat-square&logo=github)](https://github.com/TeamEiva/EivaBot/stargazers)
-[![Repo Size](https://img.shields.io/github/repo-size/TeamEiva/EivaBot?&style=flat-square&logo=github)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/TeamEiva/EivaBot?&style=flat-square&logo=github)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)
 [![GitHub license](https://img.shields.io/github/license/TeamEiva/EivaBot?&style=flat-square&logo=github)](https://github.com/TeamEiva/EivaBot/blob/master/LICENSE)
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
-[![Branch](https://img.shields.io/badge/Branch-Master-orange)]
-[![GitHub language count](https://img.shields.io/github/languages/count/TeamEiva/EivaBot?color=Pink&label=Language&style=flat-square)
+![Branch](https://img.shields.io/badge/Branch-Master-orange)
+![GitHub language count](https://img.shields.io/github/languages/count/TeamEiva/EivaBot?color=Pink&label=Language&style=flat-square)
 
 ## Deploy 🚀
 - [Deploy](#Deploy-To-Heroku)
